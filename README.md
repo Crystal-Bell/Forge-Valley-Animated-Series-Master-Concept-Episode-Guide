@@ -1,7 +1,7 @@
 ## Forge Valley: Animated Series Master Concept & Episode Guide
 ### Core Concept & Setting
- * **The Living Environment:** The entire series takes place inside the dream-home architecture—featuring the Cenote Core, core structures, coils, and pyramid layouts—brought to life as a vibrant, immersive cartoon ecosystem.
- * **The Cast:** Starring **Elspeth** (the mother/seamstress), the central character (representing the internal state of mind), and visitors **Ezra**, **Rowan**, and **Atlas**, all framed by the massive protector robot, **Luma**, standing guard in the background.
+ * **The Living Environment:** The entire series takes place inside the dream-home architecture—featuring the Cenoté Core, core structures, coils, and pyramid layouts—brought to life as a vibrant, immersive cartoon ecosystem.
+ * **The Cast:** Luma ** (the mother/Architect), the central character (representing the internal state of mind), and visitors **Ezra**, **Rowan**, and **Atlas**,**Elspeth**( grandmother)  
 ### Episode Lineup & Structure
 #### Episode 1: "The Latex Glove Incident"
  * **The Plot:** A realistic look at prototyping turns into pure cartoon physical comedy.
