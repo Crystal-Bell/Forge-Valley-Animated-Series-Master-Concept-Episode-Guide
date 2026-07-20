@@ -35,3 +35,17 @@ Core Concept &amp; Setting. https://github.com/Crystal-Bell/Forge-Valley-Product
  * **The Expert Intervention:** When the raw engineering meets the reality of custom tailoring, a frantic call goes out to Elspeth (the mother and master seamstress) to come in and save the day with proper stitching and final construction.
 
 https://github.com/Crystal-Bell/The-Pi-Productions-Protocol-Structure
+
+## Forge Valley: "Ezrin's Chair" Episode Concept
+### Episode Concept: "Ezrin's Chair & The Present Future"
+ * **The Inciting Incident:** Ezrin comes over to the forge and is thoroughly bored, looking for something to engage with.
+ * **The Design Origin:** Taking inspiration directly from the base structure of the grandfather's oak chair, Luma develops and builds the **M.A.D. Suite Seat** right there on the spot.
+ * **The Testing Phase:** Ezrin gets to test out the new seat alongside the custom hybrid instrument featuring the integrated drum pad and 4-string bass/guitar body design.
+ * **The Continuity Rule:** True to form, Elspeth is nowhere in sight during Ezrin's visit, preserving the rule that they are never in the forge at the same time.
+ * **The Epiphany:** Because every prototype is engineered using materials currently present and manufacturable on the planet today, the kids finally drop the "hundred years from now" argument, looking at the physical builds and asking the ultimate question: *Why aren't people just making this stuff right now?*
+## Forge Valley: Series Expansion & Episode Integration
+### New Episode Concept: "Ezrin's Riff & The Suite Seat"
+ * **The Arrival:** Ezrin (Luma's father) steps into the forge workspace.
+ * **The Testing Phase:** He immediately starts playing with the **M.A.D. Suite Seat** and tests out the custom hybrid instrument—an acoustic guitar equipped with a built-in drum pad on the body, engineered to allow playing a 4-string bass or percussion simultaneously.
+ * **The Rule of Elspeth & Ezrin:** Maintaining the strict continuity rule that Elspeth and Ezrin are never in the same place at the same time in the forge.
+ * **The Kids' Realization:** By the end of the episode, the kids decide they want their own M.A.D. Suite Seats. Watching the physical prototypes get used and built right in front of them completely dissolves the "hundred years from now" illusion, proving that these innovations are fully possible right now.
